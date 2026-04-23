@@ -2,7 +2,39 @@
 
 # Dirgha AI
 
-**Open-source infrastructure for builders — from research to production.**
+**A sovereign, agentic operating system.**
+A decentralized work-and-compute marketplace for the people building personal AI computers, robots, factories, and rockets.
+
+---
+
+### 🙏 The Foundational Prayer
+
+> ज्योतिःशिला सर्वगम् । जयावर्ष कुटुम्बकम् ॥  
+> ॐ सत्ये करुणायां न्याये विद्यते प्रेम शिवम् ॥  
+> 
+> *Jyotiḥśilā sarvagam | Jayāvarṣaṁ kuṭumbakam ||*  
+> *Om satye karuṇāyāṁ nyāye vidyate prema śivam ||*  
+> 
+> **The light of shila is all-pervading; the world is a family.**  
+> **In truth, compassion, and justice, love exists — auspicious and divine.**
+
+---
+
+### 🏹 The Call of Bharat
+
+Dirgha is not a project that can be built by one; it is a call that has echoed through our history. It is a reflection of the ethos of Bharat—the understanding that greatness is built stone by stone. 
+
+Just as Lord Rama crossed the ocean by building a bridge with an army of contributors, each offering their unique strength, Dirgha follows the same sacred model: we are bringing together people and organizations to build the **Ram Setu for the Agentic Era**. 
+
+We are architecting fully indigenous, agentic, sovereign AI computers.  
+**Hardware. Silicon. Models. All Open. All Indian. For the whole world.**
+
+*Vasudhaiva Kutumbakam.*
+
+**Dirgha — Accelerate Abundance.**  
+🇮🇳💻🙏
+
+---
 
 [dirgha.ai](https://dirgha.ai) · [Support](https://dirgha.ai/support) · [Contribute](https://dirgha.ai/contribute)
 
@@ -10,7 +42,7 @@
 
 ---
 
-Dirgha AI is a small, bootstrapped team building tools that let developers, writers, researchers, and creators ship without giving up sovereignty over their data or their keys.
+Dirgha AI is a small, bootstrapped team building the OS for agentic builders — developers, writers, researchers, creators, and hardware teams shipping software, chips, robots, and factories. The software surface is open today; the hardware surface (studio, marketplace, AI laptop) rolls out through 2026.
 
 ## Projects
 
