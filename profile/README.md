@@ -1,5 +1,7 @@
 <div align="center">
 
+![Dirgha AI Banner](../assets/dirgha_banner.jpg)
+
 # Dirgha AI
 
 **A sovereign, agentic operating system.**
