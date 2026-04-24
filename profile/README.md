@@ -19,7 +19,7 @@ Dirgha AI is a small, bootstrapped team building the OS for agentic builders —
 
 | Repo | What it does | License |
 |---|---|---|
-| [`dirgha-code`](https://github.com/dirghaai/dirgha-code) | Terminal-native AI coding agent. Sovereign by default. 14 providers, 43 tools, BYOK. | FSL-1.1-MIT |
+| [`dirgha-code`](https://github.com/dirghaai/dirgha-code) | Terminal-native AI coding agent. Sovereign by default. 16 providers, 43 tools, BYOK. | FSL-1.1-MIT |
 | [`writer-studio`](https://github.com/dirghaai/writer-studio) | Backend API for writing — science, fiction, screenplays, research. Hono + Postgres. | Apache-2.0 |
 | [`creator-studio`](https://github.com/dirghaai/creator-studio) | Creator monetization and social platform API. | Apache-2.0 |
 | [`abundance-protocol`](https://github.com/dirghaai/abundance-protocol) | DePIN for distributed AI inference + peer-to-peer compute + Lightning settlement. | Apache-2.0 |
