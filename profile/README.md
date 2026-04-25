@@ -19,12 +19,12 @@ Dirgha AI is a small, bootstrapped team building the OS for agentic builders —
 
 | Repo | What it does | License |
 |---|---|---|
-| [`Rama-I-Dirgha-AI-OS`](https://github.com/Dirgha-AI/Rama-I-Dirgha-AI-OS) | **Vision & roadmap** for our agentic, sovereign AI operating system — Android/iOS/Windows for the agent era. Series I of the Rama line. *Not yet released — this repo is the public plan.* | Apache-2.0 |
-| [`dirgha-code`](https://github.com/dirghaai/dirgha-code) | Terminal-native AI coding agent. Sovereign by default. 16 providers, 43 tools, BYOK. | FSL-1.1-MIT |
-| [`writer-studio`](https://github.com/dirghaai/writer-studio) | Backend API for writing — science, fiction, screenplays, research. Hono + Postgres. | Apache-2.0 |
-| [`creator-studio`](https://github.com/dirghaai/creator-studio) | Creator monetization and social platform API. | Apache-2.0 |
-| [`abundance-protocol`](https://github.com/dirghaai/abundance-protocol) | DePIN for distributed AI inference + peer-to-peer compute + Lightning settlement. | Apache-2.0 |
-| [`arniko`](https://github.com/dirghaai/arniko) | AI security scanning — 36 scanner adapters unified into one stream of typed findings. | Apache-2.0 |
+| [`Rama-I-Dirgha-AI-OS`](https://github.com/Dirgha-AI/Rama-I-Dirgha-AI-OS) | Vision & roadmap for our agentic, sovereign AI operating system. | Apache-2.0 |
+| [`dirgha-code`](https://github.com/dirghaai/dirgha-code) | AI coding agent for your terminal. Your keys, your machine, any model. | FSL-1.1-MIT |
+| [`writer-studio`](https://github.com/dirghaai/writer-studio) | Long-form writing studio — science, fiction, screenplays, research. Outline, manuscript, voice, and agents in one workspace. | Apache-2.0 |
+| [`creator-studio`](https://github.com/dirghaai/creator-studio) | Creator workspace — agents handle the production, posting, and monetization grind. | Apache-2.0 |
+| [`abundance-protocol`](https://github.com/dirghaai/abundance-protocol) | Decentralized compute and labor network. Rent GPUs, run agents, settle on Bitcoin. | Apache-2.0 |
+| [`arniko`](https://github.com/dirghaai/arniko) | AI security scanner. Every tool, one unified report. | Apache-2.0 |
 
 ## Start here
 
