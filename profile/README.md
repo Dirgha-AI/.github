@@ -19,6 +19,7 @@ Dirgha AI is a small, bootstrapped team building the OS for agentic builders —
 
 | Repo | What it does | License |
 |---|---|---|
+| [`Rama-I-Dirgha-AI-OS`](https://github.com/Dirgha-AI/Rama-I-Dirgha-AI-OS) | Our agentic, sovereign AI operating system — Android/iOS/Windows for the agent era. Series I of the Rama line. | Apache-2.0 |
 | [`dirgha-code`](https://github.com/dirghaai/dirgha-code) | Terminal-native AI coding agent. Sovereign by default. 16 providers, 43 tools, BYOK. | FSL-1.1-MIT |
 | [`writer-studio`](https://github.com/dirghaai/writer-studio) | Backend API for writing — science, fiction, screenplays, research. Hono + Postgres. | Apache-2.0 |
 | [`creator-studio`](https://github.com/dirghaai/creator-studio) | Creator monetization and social platform API. | Apache-2.0 |
